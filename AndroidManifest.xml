@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.xiazhi.mydialog"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -11,6 +12,15 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="14" />
+=======
+    package="com.example.mydialog"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+>>>>>>> 8285eaf812b84844afd3f17ae52ac635e67a635f
 
     <application
         android:allowBackup="true"
